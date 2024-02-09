@@ -1,0 +1,93 @@
+@font-face {
+
+  font-family: 'ProtestRiot-Regular';
+  src: local('ProtestRiot-Regular'), url(http://localhost:3002/ProtestRiot-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+}
+
+@font-face {
+
+  font-family: 'ProtestRevolution-Regular';
+  src: local('ProtestRevolution-Regular'), url(http://localhost:3002/ProtestRevolution-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+}
+@font-face {
+
+  font-family: 'ProtestGuerrilla-Regular';
+  src: local('ProtestGuerrilla-Regular'), url(http://localhost:3002/ProtestGuerrilla-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+}
+
+@font-face {
+
+  font-family: 'RobotoCondensed-VariableFont_wght';
+  src: local('RobotoCondensed-VariableFont_wght'), url(http://localhost:3002/RobotoCondensed-VariableFont_wght.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+}
+
+@font-face {
+
+  font-family: 'RubikGlitchPop-Regular';
+  src: local('RubikGlitchPop-Regular'), url(http://localhost:3002/RubikGlitchPop-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+}
+
+@font-face {
+
+  font-family: 'Honk-Regular-VariableFont_MORFSHLN';
+  src: local('Honk-Regular-VariableFont_MORFSHLN'), url(/Honk-Regular-VariableFont_MORFSHLN.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+
+}
+
+@font-face {
+
+  font-family: 'Pacifico-Regular';
+  src: local('Pacifico-Regular'), url(http://localhost:3002/Pacifico-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+
+}
+
+@font-face {
+
+  font-family: 'IndieFlower-Regular';
+  src: local('IndieFlower-Regular'), url(http://localhost:3002/IndieFlower-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+
+}
+
+@font-face {
+
+  font-family: 'SourceCodePro-VariableFont_wght';
+  src: local('SourceCodePro-VariableFont_wght'), url(http://localhost:3002/SourceCodePro-VariableFont_wght.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+
+}
+
+@font-face {
+
+  font-family: 'Metamorphous-Regular';
+  src: local('Metamorphous-Regular'), url(http://localhost:3002/Metamorphous-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+
+
+}
